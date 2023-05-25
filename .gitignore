@@ -3,3 +3,9 @@ BER_Results/decoder_EbN0_gen_12_16_230524-2301/BER_figure.pdf
 BER_Results/decoder_EbN0_gen_12_16_230524-2301/BER_figure.pgf
 *.mat
 *.npz
+.ipynb_checkpoints/Neural_Bottleneck_Decoder-checkpoint.ipynb
+*.pgf
+*.pdf
+.ipynb_checkpoints/Neural_Bottleneck_Decoder-checkpoint.ipynb
+.ipynb_checkpoints/Neural_Bottleneck_Decoder-checkpoint.ipynb
+.ipynb_checkpoints/Neural_Bottleneck_Decoder-checkpoint.ipynb
