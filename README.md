@@ -16,4 +16,15 @@ To compress R.V. $Y$ into $T$ we could use one this methods:
 3) KL − Means Algorithm 
 
 For this algorythms we show ability to preserve mutual information $I(X, T)$ and $I(X;Y)$:
+![My Image](MutualInfo_ToSNR.png)
 
+As we can observe Agglomerative methods shows perfomance worse than other methods. In following steps we will use symmetric version of Sequential Algorithm
+
+Next we use this Information Bottleneck method to quantize message in Belief Propagation decoder and Run simulations for two Regular LDPC codes with identifiers 
+8000.4000.3.483 and 816.55.13 from this cite: http://www.inference.org.uk/mackay/codes/data.html
+Results of simulations:
+![My Image](BER_N8000.png)
+![My Image](BER_N816.png)
+
+Next step we train Neural Network to approximate Lookup tables in order to reduce memory consumtion and procceds messages in one step:
+![My Image](Loss_NN.png)
