@@ -1,5 +1,6 @@
 ./ipynb_checkpoints/
 ./__pycache__/
+
 BER_Results/decoder_EbN0_gen_12_16_230524-2301/BER_figure.pdf
 BER_Results/decoder_EbN0_gen_12_16_230524-2301/BER_figure.pgf
 *.mat
