@@ -28,3 +28,15 @@ Results of simulations:
 
 Next step we train Neural Network to approximate Lookup tables in order to reduce memory consumtion and procceds messages in one step:
 ![My Image](Loss_NN.png)
+
+## Responsibilities
+
+1) Mikhail Shvetsov -- Project coordinatior, IB methods researcher 
+2) Oleg Nesterenkov -- IB methods researcher, NN implementation
+3) Roman Khalikov -- IB methods researcher, Hardware provider
+4) Grigoriy Vyaznikov -- Different loss incluence researcher, NN implementation
+
+## Future research
+
+1) Try different approaches to calculate MI (Kozachenko - Leonenko, MINE, etc.)
+2) Simulation of BP decoder + NN output
