@@ -1550,3 +1550,4 @@ class KLmeansIB(GenericIB):
         self.p_t = p_t_mats[:, :, winner].squeeze()
         self.MI_XY = mutual_information(self.p_x_y)
         self.MI_XT = I_TX[winner]
+
